@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practika11</string>
+    <string name="loading">Загрузить изображение</string>
+    <string name="activia">Задание с ImageButton</string>
+</resources>
